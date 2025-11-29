@@ -1,0 +1,32 @@
+# Central configuration for GraphDB connection and namespaces
+
+graphdb:
+  # Base URL of your GraphDB server
+  endpoint: "http://localhost:7200"
+
+  # Default repository name (can be overridden in service calls)
+  repository: "multimodal_kg"
+
+  # Optional authentication credentials (if security is enabled)
+  username: "admin"
+  password: "password123"
+
+  # Default repository settings used when auto-creating a new repo
+  repository_defaults:
+    # GraphDB requires these form fields instead of JSON
+    ruleset: "rdfs-owl"                             # Reasoning ruleset
+    type: "free"                                    # Edition type (e.g. free, se, worker)
+    repositoryType: "graphdb:SailRepository"        # General repository type
+    sesameType: "graphdb:FreeSailRepository"        # Specific implementation class
+
+# RDF / Ontology Namespaces
+namespaces:
+  flow: "http://flow_ai.org/ontology#"
+  schema: "http://schema.org/"
+  dcterms: "http://purl.org/dc/terms/"
+  prov: "http://www.w3.org/ns/prov#"
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  xsd: "http://www.w3.org/2001/XMLSchema#"
+  ex: "http://example.org/flow/"
