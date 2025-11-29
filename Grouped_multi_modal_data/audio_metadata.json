@@ -1,0 +1,67 @@
+[
+    {
+        "file_name": "Celine_Dion_I_Drove_All_Night.mp3",
+        "file_format": "audio",
+        "file_size_MB": 1.68,
+        "upload_timestamp": "2025-11-08T18:27:30.948454Z",
+        "namespace": "Celine_Dion_I_Drove_All_Night_20251108T182730Z_407fbe",
+        "transcript_name": "Celine_Dion_I_Drove_All_Night_transcript.txt",
+        "updated_at": "2025-11-08T18:40:05.701485Z",
+        "embedding_status": "completed",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 1,
+        "description": "The text is a lyrical composition that explores themes of escape, longing, and intimate connection through the recurring motif of \u201cdriving on land.\u201d The narrator describes leaving a sticky, cool city and embarking on a journey toward a beloved, expressing a mix of urgency (\u201cI was dying to get to you\u201d) and contemplation about whether to reach out first. Vivid sensory details\u2014such as the taste of sweet kisses, the sound of a scream, and the act of taking food from a seat\u2014interweave with emotional reflections on the strength and fragility of the world (\u201cWhy did this world keep so strong falling apart?\u201d). Repeated questions (\u201cIs that alright?\u201d) suggest a self\u2011questioning tone about the appropriateness of the narrator\u2019s actions, which include offering love, sharing space, and providing comfort. The piece juxtaposes movement (\u201cI drove on land\u201d) with moments of stillness and intimacy, emphasizing a persistent heartbeat that unites the speaker and the addressed person. Overall, the resource functions as an expressive, poetic narrative that captures the tension between physical travel and emotional yearning, using repetitive phrasing to reinforce its central motifs."
+    },
+    {
+        "file_name": "As We Worship U.mp3",
+        "file_format": "audio",
+        "file_size_MB": 3.8,
+        "upload_timestamp": "2025-11-08T17:26:14.298051Z",
+        "namespace": "As_We_Worship_U_20251108T172614Z_e81ff3",
+        "transcript_name": "As We Worship U_transcript.txt",
+        "updated_at": "2025-11-08T18:39:22.651197Z",
+        "embedding_status": "completed",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 1,
+        "description": "The resource is a lyrical composition that functions as a worship song or devotional poem, centered on expressions of gratitude, praise, and reliance on divine presence. Repeating the refrain \u201cHere we are, lifting our hands to you,\u201d the piece emphasizes communal worship and thankfulness for God\u2019s continual support. The verses articulate themes of prayer, worship, and the belief that God dwells within the prayers of believers, offering strength, love, and guidance through trials and unseen days. The text repeatedly affirms that divine assistance is ever\u2011present, describing God\u2019s \u201carms that lift us,\u201d \u201cgrace\u201d that sustains, and \u201clove that makes us strong.\u201d By interweaving calls for worship with assurances of divine companionship, the composition seeks to inspire confidence and devotion among its audience. Its structure relies on repeated choruses and simple, affirming language, creating a meditative rhythm that reinforces the central message: believers are encouraged to lift their hands, give thanks, and trust in God\u2019s enduring presence throughout life\u2019s challenges."
+    },
+    {
+        "file_name": "westlife_flying_without_wings_mp3_39652.mp3",
+        "file_format": "audio",
+        "file_size_MB": 3.45,
+        "upload_timestamp": "2025-11-09T08:04:20.348445Z",
+        "namespace": "westlife_flying_without_wings_mp3_39652_20251109T080420Z_924de6",
+        "transcript_name": "westlife_flying_without_wings_mp3_39652_transcript.txt",
+        "updated_at": "2025-11-09T09:23:23.131258Z",
+        "embedding_status": "completed",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 1,
+        "description": "The piece is a lyrical meditation on the universal quest for a singular, fulfilling experience that completes one\u2019s life. It explores how individuals discover this elusive \u201csomething\u201d in unexpected places\u2014through the innocence of children, the intimacy of love, the humor of a simple line, or the depth of friendship. Repeated imagery of \u201cflying without wings\u201d conveys the exhilaration and freedom felt when this special connection is found, while contrasting moments of solitude and longing underscore its rarity. The text emphasizes that the search is personal and often hidden, suggesting that moments of joy, sunrise, and shared dreams serve as signposts toward this inner fulfillment. Themes of perseverance, self\u2011discovery, and the transformative power of relationships recur throughout, highlighting both the pain of missing the moment and the relief of finally recognizing it. Overall, the work functions as an introspective poem that invites readers to reflect on where they might locate their own source of joy and meaning, encouraging an appreciation for the subtle, everyday experiences that can lift one \u201cwithout wings.\u201d"
+    },
+    {
+        "file_name": "westlife - fool again.mp3",
+        "file_format": "audio",
+        "file_size_MB": 3.59,
+        "upload_timestamp": "2025-11-09T08:04:37.584971Z",
+        "namespace": "westlife_-_fool_again_20251109T080437Z_184f43",
+        "transcript_name": "westlife - fool again_transcript.txt",
+        "updated_at": "2025-11-09T09:23:06.700763Z",
+        "embedding_status": "completed",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 1,
+        "description": "The text is a lyrical composition that explores themes of romantic disappointment, self\u2011reflection, and lingering regret. The narrator repeatedly addresses a former lover, expressing affection (\u201cI love you baby\u201d) while simultaneously acknowledging a sense of betrayal and missed signals. Throughout the verses, the speaker admits to overlooking warning signs (\u201cI should have seen it coming,\u201d \u201cI should have read the sun\u2019s anyway\u201d) and laments being \u201cthe fool again.\u201d The recurring refrain underscores a cycle of doubt and confusion, questioning how the relationship could have ended despite an initial belief that it would endure (\u201cI thought this love would never end\u201d). The piece also touches on unreciprocated support, noting that the partner never reached out during moments of loneliness, leaving the narrator feeling unheard and unable to demonstrate their devotion. Repetition of phrases such as \u201cCan\u2019t believe that I\u2019m the fool again\u201d and \u201cHow was I to know\u201d reinforces the emotional weight of the experience. Overall, the resource functions as an expressive narrative of heartbreak, highlighting the tension between love\u2019s hopeful beginnings and the painful realization of its collapse."
+    },
+    {
+        "file_name": "at the foot of the cross.mp3",
+        "file_format": "audio",
+        "file_size_MB": 4.99,
+        "upload_timestamp": "2025-11-08T17:27:17.523871Z",
+        "namespace": "at_the_foot_of_the_cross_20251108T172717Z_3a360a",
+        "transcript_name": "at the foot of the cross_transcript.txt",
+        "updated_at": "2025-11-08T18:39:46.467748Z",
+        "embedding_status": "completed",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 1,
+        "description": "The piece is a lyrical meditation that centers on the symbolic \u201cfoot of the cross,\u201d portraying it as a place where grace and suffering intersect. Repeatedly, the speaker expresses a personal transformation through divine love and judgment, suggesting that the crucifixion has secured life and redemption. Themes of exchange and renewal appear as the narrator speaks of trading \u201cashes\u201d for beauty and wearing forgiveness like a crown, indicating a shift from loss to honor. The act of \u201ckissing the feet of mercy\u201d and laying down burdens underscores a surrender to mercy and a desire for spiritual completeness. Throughout, the refrain emphasizes that the heart has been won by this divine encounter, reinforcing the intimate connection between the believer and the salvific act of the cross. The repetitive structure reinforces the contemplative nature of the work, inviting listeners or readers to reflect on the paradox of death bringing life, suffering yielding beauty, and the ongoing process of laying down personal weight at the foot of the cross."
+    }
+]

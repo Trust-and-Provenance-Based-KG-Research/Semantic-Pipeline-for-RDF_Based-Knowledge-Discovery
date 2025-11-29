@@ -1,0 +1,62 @@
+[
+    {
+        "file_name": "Python 101.pdf",
+        "file_format": "text",
+        "file_size_MB": 20.7,
+        "upload_timestamp": "2025-11-07T09:56:08.389866Z",
+        "namespace": "Python_101_20251107T095608Z_fdc0dc",
+        "embedding_status": "completed",
+        "updated_at": "2025-11-08T18:37:12.971398Z",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 99,
+        "description": "Python\u202f101\u202f2nd\u202fEdition, authored by Michael\u202fDriscoll and published on Leanpub on\u202f29\u202fAugust\u202f2020, is a beginner\u2011to\u2011intermediate guide that introduces the Python programming language and its ecosystem. Structured into four main parts\u2014The Basics, Intermediate Materials, Tutorials, and Python Packaging and Distribution\u2014the book walks readers through fundamental concepts, practical coding techniques, and the steps needed to package and share Python projects. Early chapters cover installation across major platforms (Windows, macOS, Linux, Android/iOS), ensuring readers can set up a working environment regardless of their operating system. The text also includes sections on target audience, author background, conventions, and system requirements, as well as supplemental resources such as source code, reader feedback mechanisms, and an errata list. Technical reviewers Ethan\u202fFurman and Martin\u202fBreuss contributed to the manuscript\u2019s accuracy. Designed for newcomers and those seeking to solidify their Python knowledge, the resource combines clear explanations with hands\u2011on examples, aiming to help readers progress from initial setup to creating and distributing their own Python applications."
+    },
+    {
+        "file_name": "The SQL Workshop A New, Interactive Approach to Learning SQL.pdf",
+        "file_format": "text",
+        "file_size_MB": 6.79,
+        "upload_timestamp": "2025-11-09T08:04:52.986677Z",
+        "namespace": "The_SQL_Workshop_A_New__Interactive_Approach_to_Learning_SQL_20251109T080452Z_9bd34b",
+        "embedding_status": "completed",
+        "updated_at": "2025-11-09T09:20:16.742108Z",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 51,
+        "description": "The resource is an instructional excerpt that introduces fundamental SQL operations using a step\u2011by\u2011step approach. It begins by showing how to open a new query tab and switch from the default database to a"
+    },
+    {
+        "file_name": "Machine learning and security_ protecting systems and algorithm.pdf",
+        "file_format": "text",
+        "file_size_MB": 6.37,
+        "upload_timestamp": "2025-11-09T08:05:06.189017Z",
+        "namespace": "Machine_learning_and_security__protecting_systems_and_algorithm_20251109T080506Z_6efe90",
+        "embedding_status": "completed",
+        "updated_at": "2025-11-09T09:19:40.698665Z",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 143,
+        "description": "Machine Learning and Security: Protecting Systems with Data and Algorithms, authored by Clarence\u202fChio and David\u202fFreeman, is a comprehensive guide that explores how machine\u2011learning techniques can be applied to safeguard computer systems. The book begins by outlining the modern cyber\u2011threat landscape, the economics of hacking, and the ways adversaries themselves employ machine learning. It then defines core concepts of machine learning, distinguishing genuine capabilities from common misconceptions, and presents real\u2011world security applications such as spam filtering and intrusion detection. Subsequent chapters delve into supervised classification methods\u2014including logistic regression, decision trees, support vector machines, and neural networks\u2014alongside practical advice on model selection, feature engineering, and avoiding over\u2011 or under\u2011fitting. A dedicated section on anomaly detection examines when unsupervised approaches are preferable, covering host, network, and web\u2011application intrusion detection, as well as challenges like explainability, maintainability, and adversarial attacks. The final portion addresses malware analysis and the integration of human feedback into automated defenses. Intended for security professionals, developers, and students, the text balances theoretical foundations with hands\u2011on examples, offering a practical roadmap for deploying machine\u2011learning\u2011driven security solutions at scale."
+    },
+    {
+        "file_name": "Artificial Intelligence Short History, Present Developments, and Future Outlook - Final Report - 2021-03-16_0.pdf",
+        "file_format": "text",
+        "file_size_MB": 9.56,
+        "upload_timestamp": "2025-11-08T17:28:13.325251Z",
+        "namespace": "Artificial_Intelligence_Short_History__Present_Developments__and_Future_Outlook_-_Final_Report_-_2021-03-16_0_20251108T172813Z_476807",
+        "embedding_status": "completed",
+        "updated_at": "2025-11-08T18:36:28.865149Z",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 54,
+        "description": "The document outlines a strategy for accelerating the adoption of artificial\u2011intelligence (AI) technologies across a broad range of national\u2011security applications. It emphasizes the need for \u201cAI\u2011ready\u201d data sets and the integration of publicly available AI frameworks such as Google\u2019s TensorFlow and Facebook\u2019s PyTorch with proprietary innovations to meet critical defense requirements. Citing testimony from former Alphabet executive Eric\u202fSchmidt, the report argues that competitive advantage now derives from effective integration and adaptation of existing technologies rather than first\u2011to\u2011market breakthroughs. It surveys the historical development of AI, highlights leading academic contributors, and maps current research activity by universities and countries. The analysis also details outreach to Department of Defense, intelligence community, and industry partners, noting that most efforts focus on narrow AI aimed at augmenting human operators. DARPA\u2019s \u201cWave\u201d taxonomy is described, with Wave\u202f1 covering rule\u2011based expert systems, Wave\u202f2 encompassing statistical learning and deep neural networks (exemplified by Project Maven), and Wave\u202f3 projecting context\u2011aware human\u2011machine symbiosis. The report concludes that leveraging open\u2011source algorithms, fostering collaboration, and advancing toward context\u2011based reasoning are essential for maintaining U.S. AI leadership in security domains."
+    },
+    {
+        "file_name": "OReilly Version Control with GIT.pdf",
+        "file_format": "text",
+        "file_size_MB": 1.81,
+        "upload_timestamp": "2025-11-08T17:28:26.867764Z",
+        "namespace": "OReilly_Version_Control_with_GIT_20251108T172826Z_a2e267",
+        "embedding_status": "completed",
+        "updated_at": "2025-11-08T18:36:51.370027Z",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "chunk_count": 114,
+        "description": "The resource is a comprehensive reference guide to Git, the distributed version\u2011control system. It catalogues the core commands\u2014such as\u202fgit\u202fclone,\u202fgit\u202fadd,\u202fgit\u202fcommit,\u202fgit\u202fcheckout,\u202fgit\u202fbranch,\u202fgit\u202fmerge,\u202fgit\u202frebase,\u202fgit\u202ffetch,\u202fgit\u202fpull,\u202fgit\u202fpush,\u202fgit\u202fdiff,\u202fgit\u202flog,\u202fgit\u202fbisect,\u202fgit\u202fblame,\u202fgit\u202fcherry\u2011pick,\u202fgit\u202fformat\u2011patch,\u202fgit\u202fapply, and\u202fgit\u202fconfig\u2014detailing their options, typical use cases, and interactions with remote repositories. The guide also explains fundamental concepts including the object model (blobs, trees, commits, tags), SHA\u20111 identifiers, the directed\u2011acyclic\u2011graph structure, the index and working\u2011tree, and the .git directory layout. It covers advanced topics such as binary merge drivers, criss\u2011cross merges, fast\u2011forward and squash merges, submodule handling, and the use of hooks and environment variables. Additional sections address workflow patterns\u2014branch tracking, upstream/downstream flows, remote\u2011tracking branches, and distributed development practices\u2014as well as practical aspects of installation on various platforms, configuration files, and integration with other VCSs like Subversion and CVS. Overall, the resource serves as a detailed, neutral compendium for both novice and experienced Git users seeking to understand and apply Git\u2019s features effectively."
+    }
+]
