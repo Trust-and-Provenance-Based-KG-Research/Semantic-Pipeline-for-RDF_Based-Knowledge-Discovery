@@ -1,0 +1,40 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix flow: <http://flow_ai.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<urn:import:common>
+    owl:imports <file://./common_shapes.ttl> .
+
+
+# VideoFile specific SHACL shapes
+
+flow:VideoFileShape a sh:NodeShape ;
+    sh:targetClass flow:VideoFile ;
+    sh:property [
+        sh:path flow:fileFormat ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:pattern "^video$" ;
+    ] ;
+    sh:property [
+        sh:path flow:fileSizeMB ;
+        sh:datatype xsd:double ;
+        sh:minCount 0 ;
+    ] ;
+    sh:property [
+        sh:path flow:chunkCount ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path flow:embeddingModel ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path flow:embeddingStatus ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:in ("pending" "completed" "failed") ;
+    ] .

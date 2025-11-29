@@ -1,0 +1,31 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix flow: <http://flow_ai.org/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# Common constraints
+
+# All resources must have a namespace (string)
+flow:ResourceShape a sh:NodeShape ;
+    sh:targetClass flow:Resource ;
+    sh:property [
+        sh:path flow:namespace ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path dcterms:title ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path dcterms:description ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path flow:uploadTimestamp ;
+        sh:datatype xsd:dateTime ;
+        sh:minCount 1 ;
+    ] .
