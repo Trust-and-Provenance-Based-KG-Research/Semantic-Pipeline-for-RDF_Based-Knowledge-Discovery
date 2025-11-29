@@ -1,0 +1,59 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix flow: <http://flow_ai.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://flow_ai.org/ontology#text/Artificial_Intelligence_Short_History__Present_Developments__and_Future_Outlook_-_Final_Report_-_2021-03-16_0_20251108T172813Z_476807> a flow:TextFile ;
+    flow:chunkCount 54 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "text" ;
+    flow:fileSizeMB 9.56e+00 ;
+    flow:namespace "Artificial_Intelligence_Short_History__Present_Developments__and_Future_Outlook_-_Final_Report_-_2021-03-16_0_20251108T172813Z_476807" ;
+    flow:uploadTimestamp "2025-11-08T17:28:13.325251+00:00"^^xsd:dateTime ;
+    dcterms:description "The document outlines a strategy for accelerating the adoption of artificial‑intelligence (AI) technologies across a broad range of national‑security applications. It emphasizes the need for “AI‑ready” data sets and the integration of publicly available AI frameworks such as Google’s TensorFlow and Facebook’s PyTorch with proprietary innovations to meet critical defense requirements. Citing testimony from former Alphabet executive Eric Schmidt, the report argues that competitive advantage now derives from effective integration and adaptation of existing technologies rather than first‑to‑market breakthroughs. It surveys the historical development of AI, highlights leading academic contributors, and maps current research activity by universities and countries. The analysis also details outreach to Department of Defense, intelligence community, and industry partners, noting that most efforts focus on narrow AI aimed at augmenting human operators. DARPA’s “Wave” taxonomy is described, with Wave 1 covering rule‑based expert systems, Wave 2 encompassing statistical learning and deep neural networks (exemplified by Project Maven), and Wave 3 projecting context‑aware human‑machine symbiosis. The report concludes that leveraging open‑source algorithms, fostering collaboration, and advancing toward context‑based reasoning are essential for maintaining U.S. AI leadership in security domains." ;
+    dcterms:title "Artificial Intelligence Short History, Present Developments, and Future Outlook - Final Report - 2021-03-16_0.pdf" .
+
+<http://flow_ai.org/ontology#text/Machine_learning_and_security__protecting_systems_and_algorithm_20251109T080506Z_6efe90> a flow:TextFile ;
+    flow:chunkCount 143 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "text" ;
+    flow:fileSizeMB 6.37e+00 ;
+    flow:namespace "Machine_learning_and_security__protecting_systems_and_algorithm_20251109T080506Z_6efe90" ;
+    flow:uploadTimestamp "2025-11-09T08:05:06.189017+00:00"^^xsd:dateTime ;
+    dcterms:description "Machine Learning and Security: Protecting Systems with Data and Algorithms, authored by Clarence Chio and David Freeman, is a comprehensive guide that explores how machine‑learning techniques can be applied to safeguard computer systems. The book begins by outlining the modern cyber‑threat landscape, the economics of hacking, and the ways adversaries themselves employ machine learning. It then defines core concepts of machine learning, distinguishing genuine capabilities from common misconceptions, and presents real‑world security applications such as spam filtering and intrusion detection. Subsequent chapters delve into supervised classification methods—including logistic regression, decision trees, support vector machines, and neural networks—alongside practical advice on model selection, feature engineering, and avoiding over‑ or under‑fitting. A dedicated section on anomaly detection examines when unsupervised approaches are preferable, covering host, network, and web‑application intrusion detection, as well as challenges like explainability, maintainability, and adversarial attacks. The final portion addresses malware analysis and the integration of human feedback into automated defenses. Intended for security professionals, developers, and students, the text balances theoretical foundations with hands‑on examples, offering a practical roadmap for deploying machine‑learning‑driven security solutions at scale." ;
+    dcterms:title "Machine learning and security_ protecting systems and algorithm.pdf" .
+
+<http://flow_ai.org/ontology#text/OReilly_Version_Control_with_GIT_20251108T172826Z_a2e267> a flow:TextFile ;
+    flow:chunkCount 114 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "text" ;
+    flow:fileSizeMB 1.81e+00 ;
+    flow:namespace "OReilly_Version_Control_with_GIT_20251108T172826Z_a2e267" ;
+    flow:uploadTimestamp "2025-11-08T17:28:26.867764+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is a comprehensive reference guide to Git, the distributed version‑control system. It catalogues the core commands—such as git clone, git add, git commit, git checkout, git branch, git merge, git rebase, git fetch, git pull, git push, git diff, git log, git bisect, git blame, git cherry‑pick, git format‑patch, git apply, and git config—detailing their options, typical use cases, and interactions with remote repositories. The guide also explains fundamental concepts including the object model (blobs, trees, commits, tags), SHA‑1 identifiers, the directed‑acyclic‑graph structure, the index and working‑tree, and the .git directory layout. It covers advanced topics such as binary merge drivers, criss‑cross merges, fast‑forward and squash merges, submodule handling, and the use of hooks and environment variables. Additional sections address workflow patterns—branch tracking, upstream/downstream flows, remote‑tracking branches, and distributed development practices—as well as practical aspects of installation on various platforms, configuration files, and integration with other VCSs like Subversion and CVS. Overall, the resource serves as a detailed, neutral compendium for both novice and experienced Git users seeking to understand and apply Git’s features effectively." ;
+    dcterms:title "OReilly Version Control with GIT.pdf" .
+
+<http://flow_ai.org/ontology#text/Python_101_20251107T095608Z_fdc0dc> a flow:TextFile ;
+    flow:chunkCount 99 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "text" ;
+    flow:fileSizeMB 2.07e+01 ;
+    flow:namespace "Python_101_20251107T095608Z_fdc0dc" ;
+    flow:uploadTimestamp "2025-11-07T09:56:08.389866+00:00"^^xsd:dateTime ;
+    dcterms:description "Python 101 2nd Edition, authored by Michael Driscoll and published on Leanpub on 29 August 2020, is a beginner‑to‑intermediate guide that introduces the Python programming language and its ecosystem. Structured into four main parts—The Basics, Intermediate Materials, Tutorials, and Python Packaging and Distribution—the book walks readers through fundamental concepts, practical coding techniques, and the steps needed to package and share Python projects. Early chapters cover installation across major platforms (Windows, macOS, Linux, Android/iOS), ensuring readers can set up a working environment regardless of their operating system. The text also includes sections on target audience, author background, conventions, and system requirements, as well as supplemental resources such as source code, reader feedback mechanisms, and an errata list. Technical reviewers Ethan Furman and Martin Breuss contributed to the manuscript’s accuracy. Designed for newcomers and those seeking to solidify their Python knowledge, the resource combines clear explanations with hands‑on examples, aiming to help readers progress from initial setup to creating and distributing their own Python applications." ;
+    dcterms:title "Python 101.pdf" .
+
+<http://flow_ai.org/ontology#text/The_SQL_Workshop_A_New__Interactive_Approach_to_Learning_SQL_20251109T080452Z_9bd34b> a flow:TextFile ;
+    flow:chunkCount 51 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "text" ;
+    flow:fileSizeMB 6.79e+00 ;
+    flow:namespace "The_SQL_Workshop_A_New__Interactive_Approach_to_Learning_SQL_20251109T080452Z_9bd34b" ;
+    flow:uploadTimestamp "2025-11-09T08:04:52.986677+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is an instructional excerpt that introduces fundamental SQL operations using a step‑by‑step approach. It begins by showing how to open a new query tab and switch from the default database to a" ;
+    dcterms:title "The SQL Workshop A New, Interactive Approach to Learning SQL.pdf" .
+

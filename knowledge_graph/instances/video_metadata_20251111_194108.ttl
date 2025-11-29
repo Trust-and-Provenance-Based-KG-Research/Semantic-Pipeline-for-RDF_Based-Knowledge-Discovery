@@ -1,0 +1,59 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix flow: <http://flow_ai.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://flow_ai.org/ontology#video/A_Complete_Guide_to_Anytype__720p__20251108T172514Z_fbdd4b> a flow:VideoFile ;
+    flow:chunkCount 10 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "video" ;
+    flow:fileSizeMB 5.43e+01 ;
+    flow:namespace "A_Complete_Guide_to_Anytype__720p__20251108T172514Z_fbdd4b" ;
+    flow:uploadTimestamp "2025-11-08T17:25:14.676807+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is a step‑by‑step video tutorial that introduces users to Anytype, an offline‑first application for organizing notes, data tables, and other personal information. It begins by explaining how to download the software from anytype.io and create a new “space,” the primary container for content, showing how to add a fresh space or start from an existing one. The presenter demonstrates basic navigation, including hiding the sidebar for a cleaner view, and walks through creating a new page using the plus‑button menu. Key customization options are highlighted: adding an emoji or image icon, selecting a cover image from Unsplash or personal uploads, editing the page description, and adjusting layout width and header position. The tutorial also covers the concept of object types, templates, and default settings, illustrating how to edit type properties such as default layout, title visibility, and checkbox inclusion for tasks. It notes that notes omit a title so the entire body becomes searchable, and briefly mentions tagging as a property. Overall, the guide aims to familiarize new users with Anytype’s core features and customization capabilities." ;
+    dcterms:title "A_Complete_Guide_to_Anytype!(720p).mp4" .
+
+<http://flow_ai.org/ontology#video/A_Son_in_Trouble___Full_Movie__English_Subtitles__720p__20251109T080356Z_87277d> a flow:VideoFile ;
+    flow:chunkCount 19 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "video" ;
+    flow:fileSizeMB 6.0554e+02 ;
+    flow:namespace "A_Son_in_Trouble___Full_Movie__English_Subtitles__720p__20251109T080356Z_87277d" ;
+    flow:uploadTimestamp "2025-11-09T08:03:57.285695+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is a transcribed spoken‑word performance that weaves together fragmented narratives of personal trauma, systemic oppression, and aspirations within the hip‑hop culture. The speaker shifts between addressing a son, reflecting on experiences of incarceration, poverty, and a difficult relationship with a single mother, and commenting on the music industry’s commercial pressures. Themes of violence, self‑destruction, and the struggle for dignity recur, alongside references to “Death Row,” money, and the desire for recognition. The monologue juxtaposes raw emotional pleas—such as urging the listener to lift their head and confront their spirit—with explicit language describing prison conditions, familial neglect, and the lure of wealth. It also touches on broader social critiques, mentioning racial inequities, the impact of the criminal justice system, and the pursuit of artistic authenticity versus profit. Throughout, the speaker oscillates between anger, remorse, and a call for empowerment, creating a chaotic yet poignant portrait of a marginalized individual navigating personal loss, societal constraints, and the quest for creative agency." ;
+    dcterms:title "A_Son_in_Trouble___Full_Movie__English_Subtitles_(720p).mp4" .
+
+<http://flow_ai.org/ontology#video/Coach_Carter___Full_Movie___LOL__Throwbacks_480p__20251109T080328Z_779725> a flow:VideoFile ;
+    flow:chunkCount 18 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "video" ;
+    flow:fileSizeMB 3.9412e+02 ;
+    flow:namespace "Coach_Carter___Full_Movie___LOL__Throwbacks_480p__20251109T080328Z_779725" ;
+    flow:uploadTimestamp "2025-11-09T08:03:28.894080+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is a transcribed dialogue that dramatizes the arrival of a new high‑school basketball coach, Ken Carter, and his efforts to impose discipline, academic standards, and a winning mindset on a struggling team. The conversation weaves together interactions between the coach, school administrators, players, and a parent, highlighting the coach’s emphasis on contracts that require a minimum 2.3 GPA, class attendance, and front‑row seating, as well as a rigorous conditioning regimen. Throughout the exchange, Carter stresses that success on the court is linked to personal responsibility and academic achievement, promising that “the losing stops now.” The script also captures the tension and resistance from some players, who question the coach’s authority and react with sarcasm and hostility. Administrative figures discuss logistical details such as a stipend and coffee orders, while the coach repeatedly asserts his credentials and expectations. Overall, the piece illustrates themes of mentorship, accountability, and the challenges of transforming a low‑performing sports program within an under‑resourced school environment." ;
+    dcterms:title "Coach_Carter___Full_Movie___LOL!_Throwbacks(480p).mp4" .
+
+<http://flow_ai.org/ontology#video/I_Have_a_Dream_speech_by_Martin_Luther_King__Jr_HD__subtitled__360p__20251107T091521Z_f62740> a flow:VideoFile ;
+    flow:chunkCount 1 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "video" ;
+    flow:fileSizeMB 1.789e+01 ;
+    flow:namespace "I_Have_a_Dream_speech_by_Martin_Luther_King__Jr_HD__subtitled__360p__20251107T091521Z_f62740" ;
+    flow:uploadTimestamp "2025-11-07T09:15:21.454734+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource presents a rendition of Dr. Martin Luther King Jr.’s historic “I Have a Dream” address, delivered during the 1963 March on Washington for Jobs and Freedom. It opens by referencing the Emancipation Proclamation and the centennial legacy of slavery, then moves into King’s vision of a nation where racial injustice is eliminated. Central themes include the call for equality, the aspiration that people be judged by “the content of their character,” and the hope for reconciliation between descendants of enslaved people and former slave owners. The text repeatedly invokes the metaphor of a “dream” to describe a future in which segregation, poverty, and discrimination are replaced by freedom, brotherhood, and justice across all states—from Mississippi to New Hampshire. It also emphasizes collective action, faith, and non‑violent protest as means to achieve this transformation. While the passage contains numerous transcription errors and unconventional phrasing, it retains the core message of King’s appeal for civil rights, unity, and moral progress in America." ;
+    dcterms:title "I_Have_a_Dream_speech_by_Martin_Luther_King_.Jr_HD__subtitled_(360p).mp4" .
+
+<http://flow_ai.org/ontology#video/Linked_Lists_-_Singly___Doubly_Linked_-_DSA_Course_in_Python_Lecture_3_720p__20251108T172531Z_a9d607> a flow:VideoFile ;
+    flow:chunkCount 5 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "video" ;
+    flow:fileSizeMB 2.897e+01 ;
+    flow:namespace "Linked_Lists_-_Singly___Doubly_Linked_-_DSA_Course_in_Python_Lecture_3_720p__20251108T172531Z_a9d607" ;
+    flow:uploadTimestamp "2025-11-08T17:25:31.496762+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is an informal tutorial that introduces the concept of linked lists, focusing on singly linked lists and briefly mentioning doubly linked lists. It explains that a singly linked list consists of nodes—objects that contain a value and a reference (or “next” pointer) to the subsequent node—forming a chain that terminates with a special marker such as null (None in Python). Unlike arrays, linked lists do not store elements in contiguous memory and lack direct index access; instead, operations start from a reference to the head node and require traversal to locate a particular element. The discussion covers how nodes are represented in programming languages using classes and objects, the role of memory addresses, and the distinction between linked lists and arrays in terms of data retrieval. It also outlines basic manipulations: inserting a new node at a given position and deleting a node, both of which involve traversing from the head and updating pointer references, with a time complexity of O(n). The tutorial emphasizes that while the examples use simple numeric values, any data type can be stored in a linked‑list node." ;
+    dcterms:title "Linked_Lists_-_Singly___Doubly_Linked_-_DSA_Course_in_Python_Lecture_3(720p).mp4" .
+

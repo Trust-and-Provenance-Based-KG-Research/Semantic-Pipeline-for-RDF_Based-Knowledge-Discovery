@@ -1,0 +1,59 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix flow: <http://flow_ai.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://flow_ai.org/ontology#audio/As_We_Worship_U_20251108T172614Z_e81ff3> a flow:AudioFile ;
+    flow:chunkCount 1 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "audio" ;
+    flow:fileSizeMB 3.8e+00 ;
+    flow:namespace "As_We_Worship_U_20251108T172614Z_e81ff3" ;
+    flow:uploadTimestamp "2025-11-08T17:26:14.298051+00:00"^^xsd:dateTime ;
+    dcterms:description "The resource is a lyrical composition that functions as a worship song or devotional poem, centered on expressions of gratitude, praise, and reliance on divine presence. Repeating the refrain “Here we are, lifting our hands to you,” the piece emphasizes communal worship and thankfulness for God’s continual support. The verses articulate themes of prayer, worship, and the belief that God dwells within the prayers of believers, offering strength, love, and guidance through trials and unseen days. The text repeatedly affirms that divine assistance is ever‑present, describing God’s “arms that lift us,” “grace” that sustains, and “love that makes us strong.” By interweaving calls for worship with assurances of divine companionship, the composition seeks to inspire confidence and devotion among its audience. Its structure relies on repeated choruses and simple, affirming language, creating a meditative rhythm that reinforces the central message: believers are encouraged to lift their hands, give thanks, and trust in God’s enduring presence throughout life’s challenges." ;
+    dcterms:title "As We Worship U.mp3" .
+
+<http://flow_ai.org/ontology#audio/Celine_Dion_I_Drove_All_Night_20251108T182730Z_407fbe> a flow:AudioFile ;
+    flow:chunkCount 1 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "audio" ;
+    flow:fileSizeMB 1.68e+00 ;
+    flow:namespace "Celine_Dion_I_Drove_All_Night_20251108T182730Z_407fbe" ;
+    flow:uploadTimestamp "2025-11-08T18:27:30.948454+00:00"^^xsd:dateTime ;
+    dcterms:description "The text is a lyrical composition that explores themes of escape, longing, and intimate connection through the recurring motif of “driving on land.” The narrator describes leaving a sticky, cool city and embarking on a journey toward a beloved, expressing a mix of urgency (“I was dying to get to you”) and contemplation about whether to reach out first. Vivid sensory details—such as the taste of sweet kisses, the sound of a scream, and the act of taking food from a seat—interweave with emotional reflections on the strength and fragility of the world (“Why did this world keep so strong falling apart?”). Repeated questions (“Is that alright?”) suggest a self‑questioning tone about the appropriateness of the narrator’s actions, which include offering love, sharing space, and providing comfort. The piece juxtaposes movement (“I drove on land”) with moments of stillness and intimacy, emphasizing a persistent heartbeat that unites the speaker and the addressed person. Overall, the resource functions as an expressive, poetic narrative that captures the tension between physical travel and emotional yearning, using repetitive phrasing to reinforce its central motifs." ;
+    dcterms:title "Celine_Dion_I_Drove_All_Night.mp3" .
+
+<http://flow_ai.org/ontology#audio/at_the_foot_of_the_cross_20251108T172717Z_3a360a> a flow:AudioFile ;
+    flow:chunkCount 1 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "audio" ;
+    flow:fileSizeMB 4.99e+00 ;
+    flow:namespace "at_the_foot_of_the_cross_20251108T172717Z_3a360a" ;
+    flow:uploadTimestamp "2025-11-08T17:27:17.523871+00:00"^^xsd:dateTime ;
+    dcterms:description "The piece is a lyrical meditation that centers on the symbolic “foot of the cross,” portraying it as a place where grace and suffering intersect. Repeatedly, the speaker expresses a personal transformation through divine love and judgment, suggesting that the crucifixion has secured life and redemption. Themes of exchange and renewal appear as the narrator speaks of trading “ashes” for beauty and wearing forgiveness like a crown, indicating a shift from loss to honor. The act of “kissing the feet of mercy” and laying down burdens underscores a surrender to mercy and a desire for spiritual completeness. Throughout, the refrain emphasizes that the heart has been won by this divine encounter, reinforcing the intimate connection between the believer and the salvific act of the cross. The repetitive structure reinforces the contemplative nature of the work, inviting listeners or readers to reflect on the paradox of death bringing life, suffering yielding beauty, and the ongoing process of laying down personal weight at the foot of the cross." ;
+    dcterms:title "at the foot of the cross.mp3" .
+
+<http://flow_ai.org/ontology#audio/westlife_-_fool_again_20251109T080437Z_184f43> a flow:AudioFile ;
+    flow:chunkCount 1 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "audio" ;
+    flow:fileSizeMB 3.59e+00 ;
+    flow:namespace "westlife_-_fool_again_20251109T080437Z_184f43" ;
+    flow:uploadTimestamp "2025-11-09T08:04:37.584971+00:00"^^xsd:dateTime ;
+    dcterms:description "The text is a lyrical composition that explores themes of romantic disappointment, self‑reflection, and lingering regret. The narrator repeatedly addresses a former lover, expressing affection (“I love you baby”) while simultaneously acknowledging a sense of betrayal and missed signals. Throughout the verses, the speaker admits to overlooking warning signs (“I should have seen it coming,” “I should have read the sun’s anyway”) and laments being “the fool again.” The recurring refrain underscores a cycle of doubt and confusion, questioning how the relationship could have ended despite an initial belief that it would endure (“I thought this love would never end”). The piece also touches on unreciprocated support, noting that the partner never reached out during moments of loneliness, leaving the narrator feeling unheard and unable to demonstrate their devotion. Repetition of phrases such as “Can’t believe that I’m the fool again” and “How was I to know” reinforces the emotional weight of the experience. Overall, the resource functions as an expressive narrative of heartbreak, highlighting the tension between love’s hopeful beginnings and the painful realization of its collapse." ;
+    dcterms:title "westlife - fool again.mp3" .
+
+<http://flow_ai.org/ontology#audio/westlife_flying_without_wings_mp3_39652_20251109T080420Z_924de6> a flow:AudioFile ;
+    flow:chunkCount 1 ;
+    flow:embeddingModel "sentence-transformers/all-MiniLM-L6-v2" ;
+    flow:embeddingStatus "completed" ;
+    flow:fileFormat "audio" ;
+    flow:fileSizeMB 3.45e+00 ;
+    flow:namespace "westlife_flying_without_wings_mp3_39652_20251109T080420Z_924de6" ;
+    flow:uploadTimestamp "2025-11-09T08:04:20.348445+00:00"^^xsd:dateTime ;
+    dcterms:description "The piece is a lyrical meditation on the universal quest for a singular, fulfilling experience that completes one’s life. It explores how individuals discover this elusive “something” in unexpected places—through the innocence of children, the intimacy of love, the humor of a simple line, or the depth of friendship. Repeated imagery of “flying without wings” conveys the exhilaration and freedom felt when this special connection is found, while contrasting moments of solitude and longing underscore its rarity. The text emphasizes that the search is personal and often hidden, suggesting that moments of joy, sunrise, and shared dreams serve as signposts toward this inner fulfillment. Themes of perseverance, self‑discovery, and the transformative power of relationships recur throughout, highlighting both the pain of missing the moment and the relief of finally recognizing it. Overall, the work functions as an introspective poem that invites readers to reflect on where they might locate their own source of joy and meaning, encouraging an appreciation for the subtle, everyday experiences that can lift one “without wings.”" ;
+    dcterms:title "westlife_flying_without_wings_mp3_39652.mp3" .
+
