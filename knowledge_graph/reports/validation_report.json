@@ -1,0 +1,17 @@
+{
+    "video_metadata_20251111_194108.ttl": {
+        "conforms": true,
+        "triple_count": 50,
+        "report_text": "Validation Report\nConforms: True\n"
+    },
+    "text_metadata_20251111_194108.ttl": {
+        "conforms": true,
+        "triple_count": 50,
+        "report_text": "Validation Report\nConforms: True\n"
+    },
+    "audio_metadata_20251111_194108.ttl": {
+        "conforms": true,
+        "triple_count": 50,
+        "report_text": "Validation Report\nConforms: True\n"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "video_metadata_20251111_194108.ttl": {
+        "graph_uri": "http://flow_ai.org/graph/video/video_metadata_20251111_194108",
+        "triples_added": 50,
+        "status": "merged"
+    },
+    "text_metadata_20251111_194108.ttl": {
+        "graph_uri": "http://flow_ai.org/graph/text/text_metadata_20251111_194108",
+        "triples_added": 50,
+        "status": "merged"
+    },
+    "audio_metadata_20251111_194108.ttl": {
+        "graph_uri": "http://flow_ai.org/graph/audio/audio_metadata_20251111_194108",
+        "triples_added": 50,
+        "status": "merged"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "video_metadata_20251111_194108.ttl": {
+        "triples_added": 50,
+        "status": "merged"
+    },
+    "text_metadata_20251111_194108.ttl": {
+        "triples_added": 50,
+        "status": "merged"
+    },
+    "audio_metadata_20251111_194108.ttl": {
+        "triples_added": 50,
+        "status": "merged"
+    }
+}
