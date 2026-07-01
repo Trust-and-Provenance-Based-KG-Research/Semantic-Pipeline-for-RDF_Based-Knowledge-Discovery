@@ -1,0 +1,4 @@
+openai-whisper
+
+# for windows users
+#choco install ffmpeg 
