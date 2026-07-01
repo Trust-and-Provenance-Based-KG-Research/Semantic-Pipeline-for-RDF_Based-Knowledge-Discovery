@@ -1,4 +1,4 @@
-# Transcription Benchmark — Methodology and Results
+# Transcription Benchmark: Methodology and Results
 
 ## 1. Objective
 
@@ -24,7 +24,7 @@ This test measured how long it takes to transcribe audio of different lengths us
 | RAM | 8 GB |
 | OS | Windows 11 Pro |
 | Shell | Git Bash / PowerShell |
-| Precision | FP32 (CPU fallback — FP16 not supported on CPU) |
+| Precision | FP32 (CPU fallback: "FP16 not supported on CPU") |
 
 ---
 
@@ -136,7 +136,7 @@ Contrary to expectation, **accent type did not significantly affect transcriptio
 
 ### 6.2 Duration vs. Transcription Time
 
-As expected, longer videos generally took more time. However, one notable outlier was the 53-minute 52-second Italian-accented video, which transcribed in just ~26 minutes — significantly faster than a proportional estimate would predict. A possible explanation is that this video contained extended periods of silence or low speech density ("less talking"), reducing the effective audio the model needed to process.
+As expected, longer videos generally took more time. However, one notable outlier was the 53-minute 52-second Italian-accented video, which transcribed in just ~26 minutes, significantly faster than a proportional estimate would predict. A possible explanation is that this video contained extended periods of silence or low speech density ("less talking"), reducing the effective audio the model needed to process.
 
 ### 6.3 Language Misidentification (Chinese Accent Sample)
 
@@ -173,7 +173,7 @@ This behavior suggests that Whisper may skip over words or segments it cannot de
 
 - Transcription time scales roughly with video length, not accent type.
 - Speech density matters: videos with more silence or less active speech may transcribe faster than their duration implies.
-- Whisper can misidentify languages when accents are strong — use `--language` to override.
+- Whisper can misidentify languages when accents are strong, use `--language` to override.
 - The `small` model is more accurate than `base` in most cases but is ~1.75× slower and can skip segments.
 - On 8 GB RAM with CPU-only inference, very long audio (1.5+ hours) may cause failures and require restarts.
 - It is worth auditing transcription logs for content gaps, especially when using the `small` model, to assess how much context may have been lost to inaccuracy or skipping.
