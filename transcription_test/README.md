@@ -15,7 +15,7 @@ See [`METHODOLOGY_AND_RESULTS.md`](./METHODOLOGY_AND_RESULTS.md) for full method
 ## Prerequisites
 
 - Python 3.8+
-- [ffmpeg](https://ffmpeg.org/) — for audio extraction
+- [ffmpeg](https://ffmpeg.org/): for audio extraction
 - Git Bash or PowerShell (Windows)
 
 ---
@@ -60,7 +60,7 @@ pip install openai-whisper
 
 ## Usage
 
-### Step 1 — Extract audio from a video file
+### Step 1: Extract audio from a video file
 
 ```bash
 ffmpeg -i video.mp4 -q:a 0 -map a audio.mp3
@@ -75,7 +75,7 @@ ffmpeg -i video.mp4 -q:a 0 -map a audio.mp3
 
 This command works in both Git Bash and PowerShell.
 
-### Step 2 — Transcribe the audio
+### Step 2: Transcribe the audio
 
 ```bash
 whisper audio.mp3 --model base
@@ -119,7 +119,7 @@ All tests were conducted on:
 - **RAM:** 8 GB
 - **OS:** Windows 11 Pro
 
-> Note: Whisper runs on CPU in this setup. FP16 is not supported on CPU — Whisper automatically falls back to FP32. GPU acceleration would significantly reduce transcription time.
+> Note: Whisper runs on CPU in this setup. FP16 is not supported on CPU, Whisper automatically falls back to FP32. GPU acceleration would significantly reduce transcription time.
 
 ---
 
