@@ -195,9 +195,9 @@ python -m app.services.transform_to_ttl
 
 ```bash
 curl -X POST \
- -H "Content-Type: application/x-turtle" \
- --data-binary @knowledge_graph/merge_report/merged_graph.trig \
- "http://localhost:7200/repositories/flow_kg/statements?context=<http://flow.ai/graph/first_batch>"
+  -H "Content-Type: application/x-trig" \
+  --data-binary @knowledge_graph/merge_report/merged_graph.trig \
+  "http://localhost:7200/repositories/flow_kg/statements"
 ```
 
 ---
